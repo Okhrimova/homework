@@ -10,7 +10,7 @@ public class Main {
         boolean apricotIsDirty = apricot > 7;
         char bar = 43;
 
-        //Задание №2
+        //Задание №2.
         double boxerWeight1 = 78.2;
         double boxerWeight2 = 82.7;
         double weightOffAllBoxers = boxerWeight1 + boxerWeight2;
